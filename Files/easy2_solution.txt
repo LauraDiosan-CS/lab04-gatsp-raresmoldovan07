@@ -1,0 +1,12 @@
+Solutie optima gasita la pasul 0
+Costul soltuiei: 73
+[4, 2, 1, 5, 3, 0]
+
+Solutie optima gasita la pasul 2
+Costul soltuiei: 53
+[1, 5, 4, 2, 3, 0]
+
+Solutie optima gasita la pasul 3
+Costul soltuiei: 43
+[5, 1, 4, 2, 3, 0]
+

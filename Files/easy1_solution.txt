@@ -1,0 +1,4 @@
+Solutie optima gasita la pasul 0
+Costul soltuiei: 34
+[1, 2, 0, 3]
+
